@@ -1,0 +1,13 @@
+{
+    "name": "REX",
+    "description": "A glossy REX collaboration client for the web.",
+    "repository": {
+        "url": "",
+        "license": "AGPL-3.0-only OR GPL-3.0-only"
+    },
+    "bugs": {
+        "list": "",
+        "report": ""
+    },
+    "keywords": ["chat", "riot", "matrix"]
+}
